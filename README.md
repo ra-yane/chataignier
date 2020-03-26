@@ -12,7 +12,7 @@ To start the server, run the following code in the `server/` directory (you can 
  in it, it is very useful):
 ```bash
 pip install -r requirements.txt
-python run.py
+python main.py
 ```
 You can run the front in the `front/` directory:
 ```bash
